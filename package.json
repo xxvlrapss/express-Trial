@@ -10,6 +10,11 @@
 	"author": "Dimas",
 	"license": "ISC",
 	"dependencies": {
-		"express": "^4.18.2"
+		"express": "^4.18.2",
+		"mongodb": "^3.5.9",
+		"mongoose": "^6.10.0"
+	},
+	"devDependencies": {
+		"nodemon": "^3.0.1"
 	}
 }
